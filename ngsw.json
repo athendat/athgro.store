@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647807841969,
+  "timestamp": 1647973584420,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/index.html",
-        "/main.b7dbeaf20f3b193c.js",
+        "/main.06391c84cdbda9ea.js",
         "/manifest.webmanifest",
         "/polyfills.2e819d98ec9fa7c9.js",
-        "/runtime.d6458454c62b1ab1.js",
-        "/styles.190be3956830c59d.css"
+        "/runtime.e4b651c17579f0e4.js",
+        "/styles.1a48d4a058bd9865.css"
       ],
       "patterns": []
     },
@@ -28,6 +28,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/data/cities.json",
+        "/assets/data/states.json",
+        "/assets/data/statescodes.json",
         "/assets/icons/feather.svg",
         "/assets/icons/heroicons-outline.svg",
         "/assets/icons/heroicons-solid.svg",
@@ -40,10 +43,8 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/icons/iconsmind.svg",
-        "/assets/icons/material-outline.svg",
-        "/assets/icons/material-solid.svg",
-        "/assets/icons/material-twotone.svg",
         "/assets/icons/socialicons.svg",
+        "/assets/icons/telegram.svg",
         "/assets/images/banners/footer-bg.jpg",
         "/assets/images/banners/fruits.jpg",
         "/assets/images/banners/home.png",
@@ -73,6 +74,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/data/cities.json": "1986bf394d95fba1ac76c2fe76118ca9e6f7c2df",
+    "/assets/data/states.json": "59e4c432e62d3ad79355fcd87fe7f72b6a224303",
+    "/assets/data/statescodes.json": "d07729eb88e128ea19566c8517e3b2fd6047e8ad",
     "/assets/icons/feather.svg": "63b29bc00de44cda0e447b1460655a562ff57e75",
     "/assets/icons/heroicons-outline.svg": "1d59cfb253680cd3cb4c866ab1bffba861a7522c",
     "/assets/icons/heroicons-solid.svg": "e2ea39c0147e00efe61c6766cb7ac97f3fab875e",
@@ -85,10 +89,8 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/icons/iconsmind.svg": "384b9687a9ffa7ba64e6eca164e8443553ffde5e",
-    "/assets/icons/material-outline.svg": "56044c5aa643e86dd428fec35bfd453bc3fb0b73",
-    "/assets/icons/material-solid.svg": "7d1dd8505153361776ac7c12538197a7ac3b959d",
-    "/assets/icons/material-twotone.svg": "6d2747f9ee75f9bd894c89413b91b94bd6f04fd0",
     "/assets/icons/socialicons.svg": "3fca87aaf2c91ad38fc8eb18935ae926ac96581e",
+    "/assets/icons/telegram.svg": "ddb89651dab94626a41e1159ea2e196e0ac58380",
     "/assets/images/banners/footer-bg.jpg": "54f9daa4e7dde90f692ecb6760e877bf1de36e7a",
     "/assets/images/banners/fruits.jpg": "268b475f921b2bbe234fc8a9ac92a44b72c8a205",
     "/assets/images/banners/home.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
@@ -112,12 +114,12 @@
     "/assets/images/products/products-mix.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
     "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
     "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
-    "/index.html": "5e22bfef5566be6f467a579027388d3c4deed439",
-    "/main.b7dbeaf20f3b193c.js": "68f9800c713c868b46b3820ce9baca2210bf368d",
+    "/index.html": "c0d8c3b68f64fe3f387c7480cda757e4d57c7470",
+    "/main.06391c84cdbda9ea.js": "a3ce4a0674e86aa4346f72537185550f8795ce7f",
     "/manifest.webmanifest": "4c8bb568b9c0c5ca80cb5d4f6a6b3d7ce1e00047",
     "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
-    "/runtime.d6458454c62b1ab1.js": "26c771535cfbb882a0355cf9405e2d8da48406c3",
-    "/styles.190be3956830c59d.css": "8ba51cba15b3a72edbfac0c9320327037e5fbe0d"
+    "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
+    "/styles.1a48d4a058bd9865.css": "c3d59b1616a4a16ba4f950927775718eefdddaf9"
   },
   "navigationUrls": [
     {
