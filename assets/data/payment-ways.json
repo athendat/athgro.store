@@ -1,0 +1,16 @@
+[{
+    "_id": "1",
+    "icon": "assets/images/payment/enzona.png",
+    "name": "ENZONA",
+    "fee": 0.025
+}, {
+    "_id": "2",
+    "icon": "assets/images/payment/transfermovil.jpg",
+    "name": "Transfermovil",
+    "fee": 0.025
+}, {
+    "_id": "3",
+    "icon": "assets/images/payment/qvapay.png",
+    "name": "QvaPay",
+    "fee": 0
+}]
