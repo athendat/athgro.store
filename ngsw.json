@@ -1,0 +1,151 @@
+{
+  "configVersion": 1,
+  "timestamp": 1648063855110,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main.d84d61a718e1222d.js",
+        "/manifest.webmanifest",
+        "/polyfills.2e819d98ec9fa7c9.js",
+        "/runtime.e4b651c17579f0e4.js",
+        "/styles.1979351317d11b15.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/data/cities.json",
+        "/assets/data/payment-ways.json",
+        "/assets/data/states.json",
+        "/assets/data/statescodes.json",
+        "/assets/icons/feather.svg",
+        "/assets/icons/heroicons-outline.svg",
+        "/assets/icons/heroicons-solid.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/iconsmind.svg",
+        "/assets/icons/socialicons.svg",
+        "/assets/icons/telegram.svg",
+        "/assets/images/banners/footer-bg.jpg",
+        "/assets/images/banners/fruits.jpg",
+        "/assets/images/banners/home.png",
+        "/assets/images/banners/page-banner-1.jpg",
+        "/assets/images/banners/page-banner-2.jpg",
+        "/assets/images/banners/page-banner-3.jpg",
+        "/assets/images/banners/page-banner-4.jpg",
+        "/assets/images/banners/page-banner-5.jpg",
+        "/assets/images/banners/products-bg.jpg",
+        "/assets/images/logos/logo-athgro.svg",
+        "/assets/images/logos/logo-text - Copy.svg",
+        "/assets/images/logos/logo-text-on-dark - Copy.svg",
+        "/assets/images/logos/logo-text-on-dark.svg",
+        "/assets/images/logos/logo-text.svg",
+        "/assets/images/logos/logo-white.svg",
+        "/assets/images/payment/enzona.png",
+        "/assets/images/payment/qvapay.png",
+        "/assets/images/payment/transfermovil.jpg",
+        "/assets/images/products/products-1.png",
+        "/assets/images/products/products-2.png",
+        "/assets/images/products/products-3.png",
+        "/assets/images/products/products-4.png",
+        "/assets/images/products/products-5.png",
+        "/assets/images/products/products-mix.png",
+        "/favicon-16x16.png",
+        "/favicon-32x32.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/data/cities.json": "1986bf394d95fba1ac76c2fe76118ca9e6f7c2df",
+    "/assets/data/payment-ways.json": "6076ff85bf06debcc05981269bbf5cf1077f82bb",
+    "/assets/data/states.json": "59e4c432e62d3ad79355fcd87fe7f72b6a224303",
+    "/assets/data/statescodes.json": "d07729eb88e128ea19566c8517e3b2fd6047e8ad",
+    "/assets/icons/feather.svg": "2c35ea826912884674dfff48352408f8e3783109",
+    "/assets/icons/heroicons-outline.svg": "48eb44bedc4a889655835f7b9ed5431815f321db",
+    "/assets/icons/heroicons-solid.svg": "aac92246180bbc6c50291b2ff5aef7b7ccba9fad",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/iconsmind.svg": "5ee49459a73f93880e984060f455f50ca84a0a83",
+    "/assets/icons/socialicons.svg": "3fca87aaf2c91ad38fc8eb18935ae926ac96581e",
+    "/assets/icons/telegram.svg": "ddb89651dab94626a41e1159ea2e196e0ac58380",
+    "/assets/images/banners/footer-bg.jpg": "54f9daa4e7dde90f692ecb6760e877bf1de36e7a",
+    "/assets/images/banners/fruits.jpg": "268b475f921b2bbe234fc8a9ac92a44b72c8a205",
+    "/assets/images/banners/home.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
+    "/assets/images/banners/page-banner-1.jpg": "9552381354ae9951b0d18d5ed6197604dcec661f",
+    "/assets/images/banners/page-banner-2.jpg": "208d33d2b13fc9c02a8a59e3292c4485af1b3c23",
+    "/assets/images/banners/page-banner-3.jpg": "e9c6b7f73ca173369dca6df1e86de0422a852567",
+    "/assets/images/banners/page-banner-4.jpg": "e58c35508b68e91967e28454f8e02dac5e4a5be7",
+    "/assets/images/banners/page-banner-5.jpg": "bd4d5f0e7c16361d27b12df3f015ac4ca5681e08",
+    "/assets/images/banners/products-bg.jpg": "79505e9d3673cba5dc9a0b77832c913482137334",
+    "/assets/images/logos/logo-athgro.svg": "a067aef9a4fc9baca8c3f0bf1b925aa53d2c2432",
+    "/assets/images/logos/logo-text - Copy.svg": "07954c2106972faec325aeaa6cff17f8764498b1",
+    "/assets/images/logos/logo-text-on-dark - Copy.svg": "159932497a820a66930579419c5ba73f6a7693d8",
+    "/assets/images/logos/logo-text-on-dark.svg": "f2c1ebafdcaa2ca8da04070f11c40b12875eb55f",
+    "/assets/images/logos/logo-text.svg": "e8749bd31d10363909f8b22cdd3684fe228432e4",
+    "/assets/images/logos/logo-white.svg": "61781a481a2038b266e7618683e86db1cf6f7a9d",
+    "/assets/images/payment/enzona.png": "96784a53ba059b15846274b02afd92e1531e4a91",
+    "/assets/images/payment/qvapay.png": "b9e43108d4f76ba758269243e1cef489f999e597",
+    "/assets/images/payment/transfermovil.jpg": "511698128aede0841cf1d2a69ab71c0e2ef8cc83",
+    "/assets/images/products/products-1.png": "54511a9bb9d1ea64451f6a8a9031506b5b467b2c",
+    "/assets/images/products/products-2.png": "dab7866ea371edda52185cc0d939f7713029607e",
+    "/assets/images/products/products-3.png": "743e112c2958f8f5facf980ed4d94b45f8479452",
+    "/assets/images/products/products-4.png": "0c1eb564764ebd969cf51d62fd8bc8b651f7c53d",
+    "/assets/images/products/products-5.png": "ee2320510f96e8a8e0f15cdddd103bc8d25ec3c8",
+    "/assets/images/products/products-mix.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
+    "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
+    "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
+    "/index.html": "896448aa54a5cb106d7b15f1d7aa7b96a89ab531",
+    "/main.d84d61a718e1222d.js": "542116b8df7f2606be6015e74d3410e408ee5ee0",
+    "/manifest.webmanifest": "87cd72a837c9ff124dd49f833b023fabf1bc24c3",
+    "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
+    "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
+    "/styles.1979351317d11b15.css": "6396680dd9512a6db14b1b6e5a52f8a033527e60"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
