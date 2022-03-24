@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647973584420,
+  "timestamp": 1648161307500,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/index.html",
-        "/main.06391c84cdbda9ea.js",
+        "/main.33526f805eeab241.js",
         "/manifest.webmanifest",
         "/polyfills.2e819d98ec9fa7c9.js",
         "/runtime.e4b651c17579f0e4.js",
-        "/styles.1a48d4a058bd9865.css"
+        "/styles.313b0fcd8050d32c.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
       },
       "urls": [
         "/assets/data/cities.json",
+        "/assets/data/payment-ways.json",
         "/assets/data/states.json",
         "/assets/data/statescodes.json",
         "/assets/icons/feather.svg",
@@ -60,6 +61,9 @@
         "/assets/images/logos/logo-text-on-dark.svg",
         "/assets/images/logos/logo-text.svg",
         "/assets/images/logos/logo-white.svg",
+        "/assets/images/payment/enzona.png",
+        "/assets/images/payment/qvapay.png",
+        "/assets/images/payment/transfermovil.jpg",
         "/assets/images/products/products-1.png",
         "/assets/images/products/products-2.png",
         "/assets/images/products/products-3.png",
@@ -75,6 +79,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/data/cities.json": "1986bf394d95fba1ac76c2fe76118ca9e6f7c2df",
+    "/assets/data/payment-ways.json": "6076ff85bf06debcc05981269bbf5cf1077f82bb",
     "/assets/data/states.json": "59e4c432e62d3ad79355fcd87fe7f72b6a224303",
     "/assets/data/statescodes.json": "d07729eb88e128ea19566c8517e3b2fd6047e8ad",
     "/assets/icons/feather.svg": "63b29bc00de44cda0e447b1460655a562ff57e75",
@@ -106,6 +111,9 @@
     "/assets/images/logos/logo-text-on-dark.svg": "f2c1ebafdcaa2ca8da04070f11c40b12875eb55f",
     "/assets/images/logos/logo-text.svg": "e8749bd31d10363909f8b22cdd3684fe228432e4",
     "/assets/images/logos/logo-white.svg": "61781a481a2038b266e7618683e86db1cf6f7a9d",
+    "/assets/images/payment/enzona.png": "96784a53ba059b15846274b02afd92e1531e4a91",
+    "/assets/images/payment/qvapay.png": "b9e43108d4f76ba758269243e1cef489f999e597",
+    "/assets/images/payment/transfermovil.jpg": "511698128aede0841cf1d2a69ab71c0e2ef8cc83",
     "/assets/images/products/products-1.png": "54511a9bb9d1ea64451f6a8a9031506b5b467b2c",
     "/assets/images/products/products-2.png": "dab7866ea371edda52185cc0d939f7713029607e",
     "/assets/images/products/products-3.png": "743e112c2958f8f5facf980ed4d94b45f8479452",
@@ -114,12 +122,12 @@
     "/assets/images/products/products-mix.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
     "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
     "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
-    "/index.html": "c0d8c3b68f64fe3f387c7480cda757e4d57c7470",
-    "/main.06391c84cdbda9ea.js": "a3ce4a0674e86aa4346f72537185550f8795ce7f",
+    "/index.html": "e672917c095b8448b19c7c054728bbb4b06049f6",
+    "/main.33526f805eeab241.js": "e65120b7220254c6f073a6fbaf6cbe7402388108",
     "/manifest.webmanifest": "4c8bb568b9c0c5ca80cb5d4f6a6b3d7ce1e00047",
     "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
     "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
-    "/styles.1a48d4a058bd9865.css": "c3d59b1616a4a16ba4f950927775718eefdddaf9"
+    "/styles.313b0fcd8050d32c.css": "21ac7ec800dfc26f3ff01a2c5d65aa483fb9fdd8"
   },
   "navigationUrls": [
     {
