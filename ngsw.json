@@ -1,10 +1,6 @@
 {
   "configVersion": 1,
-<<<<<<< HEAD
-  "timestamp": 1648267663067,
-=======
-  "timestamp": 1648185724120,
->>>>>>> e06295f4f9f9ecd6ddcf78db376855ae0cc15c1f
+  "timestamp": 1648327031883,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -16,19 +12,11 @@
       },
       "urls": [
         "/index.html",
-<<<<<<< HEAD
-        "/main.043d88a9ecb8efb5.js",
+        "/main.20f131e699372199.js",
         "/manifest.webmanifest",
         "/polyfills.2e819d98ec9fa7c9.js",
         "/runtime.e4b651c17579f0e4.js",
-        "/styles.bd7b277dde861c5d.css"
-=======
-        "/main.5bd730f1d56fdfb1.js",
-        "/manifest.webmanifest",
-        "/polyfills.2e819d98ec9fa7c9.js",
-        "/runtime.e4b651c17579f0e4.js",
-        "/styles.313b0fcd8050d32c.css"
->>>>>>> e06295f4f9f9ecd6ddcf78db376855ae0cc15c1f
+        "/styles.8a8c97579a73248b.css"
       ],
       "patterns": []
     },
@@ -101,17 +89,10 @@
     "/assets/data/payment-ways.json": "6076ff85bf06debcc05981269bbf5cf1077f82bb",
     "/assets/data/states.json": "59e4c432e62d3ad79355fcd87fe7f72b6a224303",
     "/assets/data/statescodes.json": "d07729eb88e128ea19566c8517e3b2fd6047e8ad",
-<<<<<<< HEAD
     "/assets/icons/feather.svg": "63b29bc00de44cda0e447b1460655a562ff57e75",
     "/assets/icons/heroicons-outline.svg": "1d59cfb253680cd3cb4c866ab1bffba861a7522c",
     "/assets/icons/heroicons-solid.svg": "e2ea39c0147e00efe61c6766cb7ac97f3fab875e",
     "/assets/icons/iconsmind.svg": "384b9687a9ffa7ba64e6eca164e8443553ffde5e",
-=======
-    "/assets/icons/feather.svg": "2c35ea826912884674dfff48352408f8e3783109",
-    "/assets/icons/heroicons-outline.svg": "48eb44bedc4a889655835f7b9ed5431815f321db",
-    "/assets/icons/heroicons-solid.svg": "aac92246180bbc6c50291b2ff5aef7b7ccba9fad",
-    "/assets/icons/iconsmind.svg": "5ee49459a73f93880e984060f455f50ca84a0a83",
->>>>>>> e06295f4f9f9ecd6ddcf78db376855ae0cc15c1f
     "/assets/icons/pwa/android-icon-192x192-seochecker-manifest-2218.png": "7cfedb2fe843bea45b78e0963e99b1a6bc6009a0",
     "/assets/icons/pwa/apple-icon-114x114-seochecker-manifest-2218.png": "9d5b1d73b5986f6ea978828903a0311dbe6fb2d7",
     "/assets/icons/pwa/apple-icon-120x120-seochecker-manifest-2218.png": "ffd23c53d2122c75464e3c5944b2e3d02030eb61",
@@ -137,8 +118,8 @@
     "/assets/images/banners/page-banner-5.jpg": "bd4d5f0e7c16361d27b12df3f015ac4ca5681e08",
     "/assets/images/banners/products-bg.jpg": "79505e9d3673cba5dc9a0b77832c913482137334",
     "/assets/images/logos/logo-athgro.svg": "a067aef9a4fc9baca8c3f0bf1b925aa53d2c2432",
-    "/assets/images/logos/logo-text - Copy.svg": "07954c2106972faec325aeaa6cff17f8764498b1",
-    "/assets/images/logos/logo-text-on-dark - Copy.svg": "159932497a820a66930579419c5ba73f6a7693d8",
+    "/assets/images/logos/logo-text - Copy.svg": "68d72377d0256f35c771470c48bfec3fcddd0905",
+    "/assets/images/logos/logo-text-on-dark - Copy.svg": "0ffcf772b238e2b78ee3a80a940855c4093c9a7d",
     "/assets/images/logos/logo-text-on-dark.svg": "f2c1ebafdcaa2ca8da04070f11c40b12875eb55f",
     "/assets/images/logos/logo-text.svg": "e8749bd31d10363909f8b22cdd3684fe228432e4",
     "/assets/images/logos/logo-white.svg": "61781a481a2038b266e7618683e86db1cf6f7a9d",
@@ -152,27 +133,15 @@
     "/assets/images/products/products-5.png": "ee2320510f96e8a8e0f15cdddd103bc8d25ec3c8",
     "/assets/images/products/products-mix.png": "490cf06103d066177d57a91dbbd10ba0f4f5cc4c",
     "/assets/images/splash/splash-img.png": "11f5276aadd76548deba17778e2a3e0281795465",
-<<<<<<< HEAD
     "/assets/styles/splash-screen.css": "06941ec5b1a3e666134f589b1211f6dd0daf4f27",
     "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
     "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
-    "/index.html": "32c114a4dfad86c3c20e4fd176e899993bf7d565",
-    "/main.043d88a9ecb8efb5.js": "e0e8fc2592de97d929451356bef0b3768750567e",
+    "/index.html": "8eb7d1bb695d1aefbfd8e3f35b7b095c34a4167b",
+    "/main.20f131e699372199.js": "c4e86e5d6776da2d40a84d4fe85034cabf3c46c0",
     "/manifest.webmanifest": "e15125edc69f88e88d203a662fb55c17604c8f05",
     "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
     "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
-    "/styles.bd7b277dde861c5d.css": "ee9e64b542e12136af31670f7af59d3019e87bc1"
-=======
-    "/assets/styles/splash-screen.css": "730f715d7e56a359d09cb8b96d2aa8f5ba0ad267",
-    "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
-    "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
-    "/index.html": "0c92209d725ad6c53af4d528e9974b7e2dd4ba3f",
-    "/main.5bd730f1d56fdfb1.js": "30942cfdda07b5084346f0268b53881a64babf66",
-    "/manifest.webmanifest": "e15125edc69f88e88d203a662fb55c17604c8f05",
-    "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
-    "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
-    "/styles.313b0fcd8050d32c.css": "21ac7ec800dfc26f3ff01a2c5d65aa483fb9fdd8"
->>>>>>> e06295f4f9f9ecd6ddcf78db376855ae0cc15c1f
+    "/styles.8a8c97579a73248b.css": "ce0448deb4528a6741c8396b79cb2f167c446d63"
   },
   "navigationUrls": [
     {
