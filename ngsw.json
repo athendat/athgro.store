@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648683326461,
+  "timestamp": 1649016002672,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/index.html",
-        "/main.465512b4d73ff22f.js",
+        "/main.6f4877470ffb2794.js",
         "/manifest.webmanifest",
         "/polyfills.2e819d98ec9fa7c9.js",
         "/runtime.e4b651c17579f0e4.js",
-        "/styles.97efc428fbb39dde.css"
+        "/styles.37774cd6b20228e3.css"
       ],
       "patterns": []
     },
@@ -68,7 +68,7 @@
         "/assets/images/logos/logo-white.svg",
         "/assets/images/payment/enzona.png",
         "/assets/images/payment/qvapay.png",
-        "/assets/images/payment/transfermovil.jpg",
+        "/assets/images/payment/transfermovil.png",
         "/assets/images/products/products-1.png",
         "/assets/images/products/products-2.png",
         "/assets/images/products/products-3.png",
@@ -86,7 +86,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/data/cities.json": "1986bf394d95fba1ac76c2fe76118ca9e6f7c2df",
-    "/assets/data/payment-ways.json": "6076ff85bf06debcc05981269bbf5cf1077f82bb",
+    "/assets/data/payment-ways.json": "7cd5b7d2197bc114107913909b8d8876dcf99013",
     "/assets/data/states.json": "59e4c432e62d3ad79355fcd87fe7f72b6a224303",
     "/assets/data/statescodes.json": "d07729eb88e128ea19566c8517e3b2fd6047e8ad",
     "/assets/icons/feather.svg": "63b29bc00de44cda0e447b1460655a562ff57e75",
@@ -125,7 +125,7 @@
     "/assets/images/logos/logo-white.svg": "61781a481a2038b266e7618683e86db1cf6f7a9d",
     "/assets/images/payment/enzona.png": "96784a53ba059b15846274b02afd92e1531e4a91",
     "/assets/images/payment/qvapay.png": "b9e43108d4f76ba758269243e1cef489f999e597",
-    "/assets/images/payment/transfermovil.jpg": "511698128aede0841cf1d2a69ab71c0e2ef8cc83",
+    "/assets/images/payment/transfermovil.png": "cbb15fb5722478af9bbb0223301635ab7d43d2ee",
     "/assets/images/products/products-1.png": "54511a9bb9d1ea64451f6a8a9031506b5b467b2c",
     "/assets/images/products/products-2.png": "dab7866ea371edda52185cc0d939f7713029607e",
     "/assets/images/products/products-3.png": "743e112c2958f8f5facf980ed4d94b45f8479452",
@@ -136,12 +136,12 @@
     "/assets/styles/splash-screen.css": "06941ec5b1a3e666134f589b1211f6dd0daf4f27",
     "/favicon-16x16.png": "281062c8426d8dcd4bd540b58f963211318eaa7c",
     "/favicon-32x32.png": "ddbde0404393d88b64accbd271196426b53ddb47",
-    "/index.html": "01f760a5ee56519780421072e82b08ae210c8c49",
-    "/main.465512b4d73ff22f.js": "005f5685d2305f980daa9e6e9896093089ac819c",
+    "/index.html": "caf81ee5770d3ed357db4f263484d1faf5d11650",
+    "/main.6f4877470ffb2794.js": "41f1de08ffbf3838655a4f1814a39f35d516ac18",
     "/manifest.webmanifest": "e15125edc69f88e88d203a662fb55c17604c8f05",
     "/polyfills.2e819d98ec9fa7c9.js": "c4d572ab2bb63db2fa4eca4161759650ab3a377c",
     "/runtime.e4b651c17579f0e4.js": "cba3c65362cf60dc19fa628be1489a3e722ddbf3",
-    "/styles.97efc428fbb39dde.css": "5cac3ff06018c4a91cfccc521c70282503dc02ac"
+    "/styles.37774cd6b20228e3.css": "d37a6b06ba5510e31ca921d19f460af1fb3518cb"
   },
   "navigationUrls": [
     {
