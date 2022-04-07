@@ -5,7 +5,7 @@
     "fee": 0.025
 }, {
     "_id": "2",
-    "icon": "assets/images/payment/transfermovil.jpg",
+    "icon": "assets/images/payment/transfermovil.png",
     "name": "Transfermovil",
     "fee": 0.025
 }, {
